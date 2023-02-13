@@ -1,2 +1,2 @@
-# coursera-test
+# Ket-test
 coursera test repository
